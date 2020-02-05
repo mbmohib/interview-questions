@@ -29,11 +29,11 @@ What type of inheritance ES6 has: (choose correct answers)
 ### Question No: 3
 
 ```js
-x = 10;
-y = 5;
+let x = 10;
+let y = 5;
 ```
 
-How to swap x and y values without using a temporary variable?
+Write a function that will swap x and y values without using a temporary variable?
 
 ---
 
