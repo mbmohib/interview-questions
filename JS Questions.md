@@ -18,7 +18,11 @@ What will be the value of x and y in the above code block?
 
 ### Question No: 2
 
-What is Lexical scoping?
+What type of inheritance ES6 has: (choose correct answers)
+
+1. Class based inheritance
+2. Prototypal inheritance
+3. Function based inheritance
 
 ---
 
@@ -34,6 +38,16 @@ How to swap x and y values without using a temporary variable?
 ---
 
 ### Question No: 4
+
+Which programming paradigms JavaScript supports? (choose correct answers)
+
+1. Imperative
+2. OOP
+3. Functional Programming
+
+---
+
+### Question No: 5
 
 ```js
 const names = [
@@ -53,15 +67,18 @@ Write a function that will take two array as args and return an array of objects
 
 ---
 
-### Question No: 5
+### Question No: 6
 
-Node.js is a JS runtime, event-driven and non-blocking I/O built using Chrome’s V8 JavaScript engine.
+Nodejs is a: (choose correct answers)
 
-Here, explain the term **non-blocking I/O** ?
+1. JS Runtime environment
+2. Blocking I/O
+3. Event driven
+4. JavaScript Framework
 
 ---
 
-### Question No: 6
+### Question No: 7
 
 ```js
 const obj = {
@@ -77,12 +94,11 @@ objClone.b = 4;
 objClone.c.age = 30;
 ```
 
-- What will be the value of `obj.b` and `obj.c.age` ?
-- How **reference type** works in Javascript?
+What will be the value of `obj.b` and `obj.c.age` ?
 
 ---
 
-### Question No: 7
+### Question No: 8
 
 ```js
 const arr1 = [5, 6, 9, 2];
@@ -93,13 +109,17 @@ Write a function that will take this two array as args and return an array of un
 
 ---
 
-### Question No: 8
+### Question No: 9
 
-How `this` keywords works in `fat arrow` function?
+The value of `this` keyword in `fat arrow` function defined: (choose correct answers)
+
+1. By Lexical Scope
+2. By Function's Execution Context
+3. By Global Scope
 
 ---
 
-### Question No: 9
+### Question No: 10
 
 ```js
 const ar = [1, [2], [3, [[4]]]];
@@ -110,7 +130,19 @@ Flatten the nested array. Your output should look like this:
 
 ---
 
-### Question No: 10
+### Question No: 11
+
+Suppose you are designing a details page of product in React. The page url is `/products/[productId]`. Now, in which life cycle methods you should fetch and update the data depending on `productId`. (choose correct answers)
+
+1. componentDidMount
+2. shouldComponentUpdate
+3. componentDidUpdate
+4. componentWillReceiveProps
+5. getSnapshotBeforeUpdate
+
+---
+
+### Question No: 12
 
 Convert this **Callback Hell** to a more readable approach.
 
